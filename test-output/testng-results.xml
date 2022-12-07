@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-07T00:14:19Z" name="Suite" finished-at="2022-12-07T00:17:29Z" duration-ms="189838">
+    <groups>
+    </groups>
+    <test started-at="2022-12-07T00:14:19Z" name="Test" finished-at="2022-12-07T00:17:29Z" duration-ms="189838">
+      <class name="maven_package.Maven_class">
+        <test-method is-config="true" signature="suri()[pri:0, instance:maven_package.Maven_class@3bd323e9]" started-at="2022-12-07T05:44:19Z" name="suri" finished-at="2022-12-07T05:44:30Z" duration-ms="11635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suri -->
+        <test-method is-config="true" signature="pubi()[pri:0, instance:maven_package.Traveling@1984b1f]" started-at="2022-12-07T05:44:30Z" name="pubi" finished-at="2022-12-07T05:44:41Z" duration-ms="10132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pubi -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:maven_package.Your_Store@39ac0c0a]" started-at="2022-12-07T05:44:41Z" name="bt" finished-at="2022-12-07T05:44:46Z" duration-ms="5429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="tc1()[pri:0, instance:maven_package.Maven_class@3bd323e9]" started-at="2022-12-07T05:44:52Z" name="tc1" finished-at="2022-12-07T05:44:52Z" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc4()[pri:1, instance:maven_package.Maven_class@3bd323e9]" started-at="2022-12-07T05:45:59Z" name="tc4" finished-at="2022-12-07T05:46:17Z" duration-ms="18155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method signature="tc6()[pri:2, instance:maven_package.Maven_class@3bd323e9]" started-at="2022-12-07T05:46:43Z" name="tc6" finished-at="2022-12-07T05:46:44Z" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc6 -->
+        <test-method signature="tc5()[pri:3, instance:maven_package.Maven_class@3bd323e9]" started-at="2022-12-07T05:46:46Z" name="tc5" finished-at="2022-12-07T05:47:05Z" duration-ms="19008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method signature="tc11()[pri:4, instance:maven_package.Maven_class@3bd323e9]" started-at="2022-12-07T05:47:10Z" name="tc11" finished-at="2022-12-07T05:47:29Z" duration-ms="18305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11 -->
+      </class> <!-- maven_package.Maven_class -->
+      <class name="maven_package.Traveling">
+        <test-method signature="tc1()[pri:0, instance:maven_package.Traveling@1984b1f]" started-at="2022-12-07T05:44:46Z" name="tc1" finished-at="2022-12-07T05:44:52Z" duration-ms="6032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="link()[pri:1, instance:maven_package.Traveling@1984b1f]" started-at="2022-12-07T05:45:01Z" name="link" finished-at="2022-12-07T05:45:59Z" duration-ms="57843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link -->
+        <test-method signature="regsiter()[pri:2, instance:maven_package.Traveling@1984b1f]" started-at="2022-12-07T05:46:17Z" name="regsiter" finished-at="2022-12-07T05:46:43Z" duration-ms="26616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regsiter -->
+      </class> <!-- maven_package.Traveling -->
+      <class name="maven_package.Your_Store">
+        <test-method signature="tc()[pri:0, instance:maven_package.Your_Store@39ac0c0a]" started-at="2022-12-07T05:44:52Z" name="tc" finished-at="2022-12-07T05:45:01Z" duration-ms="8248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method signature="tc1()[pri:2, instance:maven_package.Your_Store@39ac0c0a]" started-at="2022-12-07T05:46:44Z" name="tc1" finished-at="2022-12-07T05:46:46Z" duration-ms="2535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc2()[pri:3, instance:maven_package.Your_Store@39ac0c0a]" started-at="2022-12-07T05:47:05Z" name="tc2" finished-at="2022-12-07T05:47:10Z" duration-ms="4997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- maven_package.Your_Store -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
